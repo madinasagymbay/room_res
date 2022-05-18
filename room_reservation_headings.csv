@@ -1,0 +1,164 @@
+﻿Select location…;Select room…;Room type…;capacity;cap_range;Equipment data projector;Equipment blackboard;Equipment document camera;Equipment lecture capture camera;Equipment clevertouch;Equipment MS teams video camera;Equipment fixed computer;Equipment white board;Equipment bluray player;Equipment touch screen monitor;Equipment dual projection;book_started_date;book_ended_date;last_line
+Arts Centre;Wood-Scawen room;Tiered;14;0-20;yes;no;no;no;yes;yes;no;yes;no;yes;no;2021-01-04 10:00;2021-01-04 11:00;0
+Faculty of Arts;FAB0.01;Flat;34;21-40;no;no;yes;yes;no;no;yes;no;yes;no;no;2021-01-04 12:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.02;Boardroom;56;41-60;yes;yes;no;no;no;no;yes;yes;no;no;yes;2021-01-04 14:00;2021-01-04 17:00;0
+Faculty of Arts;FAB0.03;Flexible;63;61-80;yes;yes;no;no;no;yes;yes;yes;no;no;yes;2021-01-04 10:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.04;Teaching;97;81-100;no;yes;yes;no;yes;yes;yes;yes;no;no;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.05;Tiered;120;101-150;no;yes;yes;no;yes;yes;no;no;yes;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+Faculty of Arts;FAB0.06;Flat;175;>150;no;yes;yes;yes;yes;no;no;no;yes;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+Faculty of Arts;FAB0.07;Boardroom;10;0-20;yes;yes;yes;yes;no;no;no;no;yes;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Faculty of Arts;FAB0.08;Flexible;25;21-40;yes;no;yes;no;no;no;yes;no;no;yes;no;2021-01-04 12:00;2021-01-04 14:00;0
+Faculty of Arts;FAB0.09;Teaching;45;41-60;no;no;no;yes;no;yes;no;no;no;no;no;2021-01-04 13:00;2021-01-04 15:00;0
+Faculty of Arts;FAB0.10;Tiered;71;61-80;no;no;no;no;yes;no;yes;yes;yes;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Faculty of Arts;FAB0.11;Flat;95;81-100;no;no;no;yes;yes;yes;no;yes;no;yes;no;2021-01-04 17:00;2021-01-04 18:00;0
+Faculty of Arts;FAB0.12;Boardroom;130;101-150;no;no;no;yes;yes;yes;yes;no;yes;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.13;Flexible;200;>150;no;no;yes;yes;no;no;yes;yes;yes;no;yes;2021-01-04 9:00;2021-01-04 11:00;0
+Faculty of Arts;FAB0.14;Teaching;15;0-20;yes;yes;yes;no;no;no;no;no;no;no;yes;2021-01-04 12:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.15;Tiered;25;21-40;yes;yes;yes;no;no;yes;no;yes;no;yes;no;2021-01-04 14:00;2021-01-04 17:00;0
+Faculty of Arts;FAB0.16;Flat;46;41-60;yes;no;no;yes;yes;yes;yes;no;no;yes;yes;2021-01-04 10:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.17;Boardroom;77;61-80;yes;no;no;yes;yes;yes;no;yes;yes;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Faculty of Arts;FAB0.18;Flexible;89;81-100;yes;no;no;yes;yes;no;yes;no;yes;yes;yes;2021-01-04 16:00;2021-01-04 18:00;0
+Faculty of Arts;FAB0.19;Teaching;145;101-150;no;yes;yes;no;no;no;no;no;yes;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+Faculty of Arts;FAB0.20;Tiered;190;>150;yes;no;yes;no;no;yes;yes;no;no;no;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Humanities;H0.01;Flat;7;0-20;no;yes;no;no;no;no;no;no;no;no;no;2021-01-04 12:00;2021-01-04 14:00;0
+Humanities;H0.02;Boardroom;35;21-40;yes;no;no;no;yes;no;no;yes;yes;yes;yes;2021-01-04 13:00;2021-01-04 15:00;0
+Humanities;H0.03;Flexible;47;41-60;no;yes;yes;yes;no;no;no;yes;no;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Humanities;H0.04;Teaching;67;61-80;no;yes;yes;yes;yes;yes;no;yes;yes;yes;yes;2021-01-04 17:00;2021-01-04 18:00;0
+Humanities;H0.05;Tiered;89;81-100;no;yes;yes;yes;yes;yes;no;no;no;yes;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Humanities;H0.06;Flat;135;101-150;no;yes;yes;no;yes;no;no;yes;no;yes;no;2021-01-04 9:00;2021-01-04 11:00;0
+Humanities;H0.07;Boardroom;176;>150;yes;no;yes;yes;no;yes;yes;no;yes;no;no;2021-01-04 12:00;2021-01-04 13:00;0
+Humanities;H0.08;Flexible;9;0-20;no;no;no;no;no;yes;yes;yes;no;yes;no;2021-01-04 14:00;2021-01-04 17:00;0
+Humanities;H0.09;Teaching;15;21-40;yes;no;yes;yes;no;no;yes;yes;yes;no;no;2021-01-04 10:00;2021-01-04 13:00;0
+Humanities;H0.10;Tiered;46;41-60;yes;no;no;no;yes;no;yes;yes;no;yes;no;2021-01-04 9:00;2021-01-04 13:00;0
+Humanities;H0.11;Flat;70;61-80;no;yes;yes;yes;yes;yes;no;no;yes;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+Humanities;H0.12;Boardroom;90;81-100;no;yes;no;yes;yes;no;yes;no;no;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+Humanities;H0.13;Flexible;145;101-150;no;yes;no;no;yes;yes;yes;yes;no;no;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Humanities;H0.14;Teaching;300;>150;yes;no;yes;no;no;no;no;no;no;yes;no;2021-01-04 12:00;2021-01-04 14:00;0
+Humanities;H0.15;Tiered;5;0-20;yes;no;yes;no;yes;yes;yes;yes;yes;yes;yes;2021-01-04 13:00;2021-01-04 15:00;0
+International Manufacturing Centre;IMC.002;Flat;25;21-40;no;no;yes;no;yes;yes;no;no;yes;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+iHouse;IHX0.01;Boardroom;45;41-60;no;yes;yes;yes;yes;yes;yes;yes;yes;yes;yes;2021-01-04 17:00;2021-01-04 18:00;0
+iHouse;IHX0.02;Flexible;65;61-80;no;no;no;yes;no;no;no;no;no;yes;no;2021-01-04 9:00;2021-01-04 13:00;0
+IT Access Areas;A0.01;Teaching;86;81-100;no;yes;no;yes;no;no;yes;yes;yes;no;no;2021-01-04 9:00;2021-01-04 11:00;0
+IT Access Areas;A0.02;Tiered;125;101-150;no;no;no;yes;no;no;yes;no;no;yes;no;2021-01-04 12:00;2021-01-04 13:00;0
+IT Access Areas;A0.03;Flat;200;>150;yes;no;no;yes;no;yes;yes;yes;yes;no;yes;2021-01-04 14:00;2021-01-04 17:00;0
+IT Access Areas;A0.04;Boardroom;10;0-20;yes;no;yes;no;yes;no;yes;no;no;yes;yes;2021-01-04 10:00;2021-01-04 13:00;0
+IT Access Areas;A0.05;Flexible;30;21-40;yes;no;yes;no;yes;yes;no;yes;yes;no;yes;2021-01-04 9:00;2021-01-04 13:00;0
+IT Access Areas;A0.06;Teaching;50;41-60;yes;no;no;no;yes;no;no;yes;yes;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+IT Access Areas;A0.07;Tiered;70;61-80;yes;yes;yes;no;no;yes;no;yes;no;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+IT Access Areas;A0.08;Flat;90;81-100;no;yes;no;no;yes;no;yes;no;no;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+IT Access Areas;A0.09;Boardroom;110;101-150;yes;no;no;no;no;yes;no;yes;no;yes;no;2021-01-04 12:00;2021-01-04 14:00;0
+IT Access Areas;A0.10;Flexible;180;>150;no;no;yes;yes;yes;no;yes;no;yes;no;no;2021-01-04 13:00;2021-01-04 15:00;0
+Junction;JX2.02;Teaching;5;0-20;yes;yes;no;no;no;no;yes;yes;no;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Junction;JX2.03;Tiered;27;21-40;no;yes;no;no;no;yes;yes;yes;no;no;no;2021-01-04 17:00;2021-01-04 18:00;0
+Library;Teaching Grid;Flat;47;41-60;no;yes;yes;no;no;yes;yes;yes;no;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Library;LIB 2;Boardroom;79;61-80;no;yes;yes;no;yes;yes;no;no;yes;no;yes;2021-01-04 9:00;2021-01-04 11:00;0
+Mathematical Sciences;MB0.07;Flexible;85;81-100;no;yes;yes;yes;yes;no;no;no;yes;yes;yes;2021-01-04 12:00;2021-01-04 13:00;0
+Mathematical Sciences;MB0.08;Teaching;134;101-150;yes;yes;yes;yes;yes;no;no;no;yes;no;no;2021-01-04 14:00;2021-01-04 17:00;0
+Millburn House;A0.26;Tiered;179;>150;no;no;yes;no;no;no;yes;no;no;no;no;2021-01-04 10:00;2021-01-04 13:00;0
+Millburn House;A0.27;Flat;15;0-20;yes;no;no;yes;no;yes;no;no;no;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Millburn House;A0.28;Boardroom;29;21-40;yes;no;no;no;no;no;yes;yes;yes;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+Millburn House;A0.29;Flexible;58;41-60;no;no;no;yes;yes;yes;no;yes;no;yes;yes;2021-01-04 11:00;2021-01-04 12:00;0
+Millburn House;A0.30;Teaching;73;61-80;no;no;no;yes;yes;yes;yes;no;yes;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Ramphal;R0.03;Tiered;92;81-100;no;no;yes;yes;yes;no;yes;yes;yes;yes;no;2021-01-04 12:00;2021-01-04 14:00;0
+Ramphal;R0.04;Flat;143;101-150;yes;yes;yes;no;no;no;no;no;no;no;no;2021-01-04 13:00;2021-01-04 15:00;0
+Ramphal;R0.05;Boardroom;176;>150;yes;yes;yes;no;no;yes;no;yes;no;no;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Ramphal;R0.06;Flexible;4;0-20;no;no;no;yes;no;yes;yes;no;no;yes;yes;2021-01-04 17:00;2021-01-04 18:00;0
+Ramphal;R0.07;Teaching;27;21-40;no;no;no;yes;yes;yes;no;yes;yes;yes;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Ramphal;R1.03;Tiered;49;41-60;no;no;no;yes;yes;no;yes;no;yes;yes;no;2021-01-04 9:00;2021-01-04 11:00;0
+Ramphal;R1.04;Flat;64;61-80;no;yes;yes;no;yes;no;no;no;yes;no;no;2021-01-04 12:00;2021-01-04 13:00;0
+Ramphal;R1.05;Boardroom;86;81-100;no;no;yes;no;no;yes;yes;no;no;no;yes;2021-01-04 14:00;2021-01-04 17:00;0
+Ramphal;R2.06;Flexible;107;101-150;yes;yes;no;no;no;no;no;no;no;no;no;2021-01-04 10:00;2021-01-04 13:00;0
+Rootes;Panorama 1;Teaching;167;>150;yes;no;no;no;no;no;no;yes;yes;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Rootes;Panorama 2;Tiered;7;0-20;yes;yes;yes;yes;yes;no;no;yes;no;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+Rootes;Panorama 3;Flat;27;21-40;yes;yes;yes;yes;no;yes;no;yes;yes;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+Rootes;Chancellors 1;Boardroom;47;41-60;yes;yes;yes;yes;yes;yes;no;no;no;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Rootes;Chancellors 2;Flexible;67;61-80;no;yes;yes;no;yes;no;no;yes;no;yes;yes;2021-01-04 12:00;2021-01-04 14:00;0
+Rootes;Chancellors 3;Teaching;87;81-100;yes;no;yes;yes;yes;yes;yes;no;yes;no;yes;2021-01-04 13:00;2021-01-04 15:00;0
+Senate House;Council Chamber;Tiered;107;101-150;no;no;no;no;no;yes;yes;yes;no;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Senate House;SH2.05;Flat;157;>150;yes;no;yes;yes;no;no;yes;yes;yes;yes;yes;2021-01-04 17:00;2021-01-04 18:00;0
+Social Sciences;S0.08;Boardroom;14;0-20;no;no;no;no;no;no;yes;yes;no;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Social Sciences;S0.09;Flexible;34;21-40;no;yes;yes;yes;yes;yes;no;no;yes;no;yes;2021-01-04 9:00;2021-01-04 11:00;0
+Social Sciences;S0.10;Teaching;56;41-60;no;yes;no;yes;yes;no;yes;no;no;no;no;2021-01-04 12:00;2021-01-04 13:00;0
+Social Sciences;S0.11;Tiered;63;61-80;no;yes;no;no;yes;yes;yes;yes;no;yes;yes;2021-01-04 14:00;2021-01-04 17:00;0
+Social Sciences;S0.13;Flat;97;81-100;yes;no;yes;no;yes;no;no;no;no;yes;no;2021-01-04 10:00;2021-01-04 13:00;0
+Social Sciences;S0.17;Boardroom;120;101-150;no;no;yes;no;no;yes;yes;yes;yes;no;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Social Sciences;S0.18;Flexible;175;>150;yes;no;yes;no;yes;yes;no;no;yes;yes;yes;2021-01-04 16:00;2021-01-04 18:00;0
+Social Sciences;S0.19;Teaching;10;0-20;yes;yes;yes;yes;yes;yes;yes;yes;yes;no;yes;2021-01-04 11:00;2021-01-04 12:00;0
+Social Sciences;S0.20;Tiered;25;21-40;no;no;no;yes;yes;no;no;no;no;no;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Social Sciences;S1.66;Flat;45;41-60;no;yes;no;yes;no;no;yes;yes;yes;no;no;2021-01-04 12:00;2021-01-04 14:00;0
+Social Sciences;S1.67;Boardroom;71;61-80;no;no;no;yes;no;no;yes;no;no;yes;no;2021-01-04 13:00;2021-01-04 15:00;0
+Social Sciences;S1.68;Flexible;95;81-100;yes;no;no;yes;no;yes;yes;yes;yes;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Social Sciences;S2.84;Teaching;130;101-150;yes;no;yes;no;no;no;yes;no;no;yes;no;2021-01-04 17:00;2021-01-04 18:00;0
+Sciences;L3;Tiered;200;>150;no;no;yes;no;yes;yes;no;yes;yes;yes;no;2021-01-04 9:00;2021-01-04 13:00;0
+Sciences;L4;Flat;15;0-20;no;no;no;no;yes;no;no;yes;yes;yes;no;2021-01-04 9:00;2021-01-04 11:00;0
+Sciences;L5;Boardroom;25;21-40;no;yes;yes;no;yes;yes;yes;yes;no;no;no;2021-01-04 12:00;2021-01-04 13:00;0
+Sciences;B2.01;Flexible;46;41-60;no;yes;no;no;no;no;no;no;no;yes;yes;2021-01-04 14:00;2021-01-04 17:00;0
+Sciences;B2.02;Teaching;77;61-80;no;no;no;no;yes;yes;yes;yes;no;no;no;2021-01-04 10:00;2021-01-04 13:00;0
+Sciences;B2.03;Tiered;89;81-100;yes;no;yes;yes;no;no;no;no;yes;yes;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Sciences;PS1.28;Flat;145;101-150;yes;yes;no;no;yes;no;yes;yes;no;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+Sciences;P5.21;Boardroom;190;>150;yes;yes;no;no;no;yes;yes;yes;no;no;yes;2021-01-04 11:00;2021-01-04 12:00;0
+The Oculus;OC0.01;Flexible;5;0-20;yes;yes;yes;no;no;yes;yes;yes;no;no;no;2021-01-04 14:00;2021-01-04 15:00;0
+The Oculus;OC0.02;Teaching;25;21-40;yes;yes;yes;no;no;yes;yes;no;yes;yes;no;2021-01-04 12:00;2021-01-04 14:00;0
+The Oculus;OC0.03;Tiered;45;41-60;no;yes;yes;yes;yes;no;no;no;yes;yes;no;2021-01-04 13:00;2021-01-04 15:00;0
+The Oculus;OC0.04;Flat;65;61-80;yes;yes;yes;yes;yes;no;no;no;yes;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+The Oculus;OC0.05;Boardroom;86;81-100;no;no;yes;no;yes;no;no;no;no;yes;yes;2021-01-04 17:00;2021-01-04 18:00;0
+The Oculus;OC0.06;Flexible;125;101-150;yes;no;no;yes;no;yes;yes;no;no;yes;yes;2021-01-04 9:00;2021-01-04 13:00;0
+The Oculus;OC0.07;Teaching;200;>150;no;no;no;no;no;no;no;yes;yes;no;no;2021-01-04 9:00;2021-01-04 11:00;0
+The Oculus;OC0.08;Tiered;10;0-20;no;no;no;yes;no;yes;yes;yes;no;yes;no;2021-01-04 12:00;2021-01-04 13:00;0
+The Oculus;OC0.09;Flat;30;21-40;no;no;no;yes;yes;yes;no;no;yes;no;no;2021-01-04 14:00;2021-01-04 17:00;0
+The Oculus;OC0.10;Boardroom;50;41-60;no;no;yes;yes;yes;no;yes;yes;yes;yes;no;2021-01-04 10:00;2021-01-04 13:00;0
+Zeeman;MS.01;Flexible;70;61-80;yes;yes;yes;no;yes;no;yes;no;no;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Zeeman;MS.02;Teaching;90;81-100;no;yes;yes;no;no;yes;no;yes;no;no;yes;2021-01-04 16:00;2021-01-04 18:00;0
+Zeeman;MS.03;Tiered;110;101-150;yes;no;no;yes;no;yes;no;no;no;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+Zeeman;MS.04;Flat;180;>150;yes;no;no;yes;no;yes;yes;yes;yes;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Zeeman;MS.05;Boardroom;5;0-20;no;no;no;yes;yes;no;no;no;yes;yes;yes;2021-01-04 12:00;2021-01-04 14:00;0
+Gibbet Hill - Biotechnology;BSR1;Flexible;27;21-40;no;yes;yes;no;yes;no;yes;no;yes;no;yes;2021-01-04 13:00;2021-01-04 15:00;0
+Gibbet Hill - Medical Teaching Centre;MD0.01;Teaching;47;41-60;no;no;yes;no;yes;yes;no;no;no;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Gibbet Hill - Warwick Medical School;GLT1;Tiered;79;61-80;yes;yes;no;no;no;no;yes;no;no;no;no;2021-01-04 17:00;2021-01-04 18:00;0
+Gibbet Hill - Warwick Medical School;GLT2;Flat;85;81-100;yes;no;no;no;no;no;no;yes;yes;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Gibbet Hill - Warwick Medical School;GLT3;Boardroom;134;101-150;no;yes;yes;yes;no;no;yes;yes;no;no;no;2021-01-04 9:00;2021-01-04 11:00;0
+Gibbet Hill - Warwick Medical School;GLT4;Flexible;179;>150;no;yes;yes;yes;yes;yes;no;yes;yes;yes;yes;2021-01-04 12:00;2021-01-04 13:00;0
+Gibbet Hill - Warwick Medical School;A0.30;Teaching;15;0-20;no;yes;yes;yes;no;yes;no;no;no;no;yes;2021-01-04 14:00;2021-01-04 17:00;0
+Gibbet Hill - Warwick Medical School;A0.39;Tiered;29;21-40;no;yes;yes;no;yes;no;no;yes;no;no;no;2021-01-04 10:00;2021-01-04 13:00;0
+Gibbet Hill - Warwick Medical School;A0.41;Flat;58;41-60;no;no;yes;yes;yes;yes;no;no;yes;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Gibbet Hill - Warwick Medical School;A0.42;Boardroom;73;61-80;yes;no;no;no;yes;yes;yes;yes;no;no;yes;2021-01-04 16:00;2021-01-04 18:00;0
+Gibbet Hill - Interdisciplinary Biomedical Research;IBRB Lecture Theatre;Flexible;92;81-100;yes;no;yes;yes;no;no;yes;yes;yes;yes;yes;2021-01-04 11:00;2021-01-04 12:00;0
+Westwood - Avon Building ;WA0.15a;Teaching;143;101-150;yes;no;no;no;no;no;yes;yes;no;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Westwood - Avon Building ;WA0.15;Tiered;176;>150;yes;yes;yes;yes;no;yes;yes;no;yes;yes;no;2021-01-04 12:00;2021-01-04 14:00;0
+Westwood - Avon Building ;WA0.24;Flat;6;0-20;yes;yes;no;yes;yes;no;no;no;no;no;no;2021-01-04 13:00;2021-01-04 15:00;0
+Westwood - Avon Building ;WA1.01;Boardroom;26;21-40;no;yes;no;no;yes;yes;yes;yes;no;no;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Westwood - Avon Building ;WA1.09;Flexible;53;41-60;yes;no;yes;no;yes;no;yes;no;no;yes;no;2021-01-04 17:00;2021-01-04 18:00;0
+Westwood - Avon Building ;WA1.10;Teaching;76;61-80;no;no;yes;no;yes;yes;no;yes;yes;yes;no;2021-01-04 9:00;2021-01-04 13:00;0
+Westwood - Avon Building ;WA1.15a;Tiered;98;81-100;yes;no;yes;no;no;yes;yes;no;yes;yes;no;2021-01-04 9:00;2021-01-04 11:00;0
+Westwood - Avon Building ;WA1.15b;Flat;134;101-150;no;yes;yes;yes;yes;yes;no;yes;yes;no;no;2021-01-04 12:00;2021-01-04 13:00;0
+Westwood - Avon Building ;WA1.20;Boardroom;176;>150;no;no;no;yes;yes;no;yes;no;no;no;no;2021-01-04 14:00;2021-01-04 17:00;0
+Westwood - Avon Building ;Avon Drama Studio;Flexible;3;0-20;no;yes;no;yes;yes;no;no;yes;yes;no;yes;2021-01-04 10:00;2021-01-04 13:00;0
+Westwood - Café Aroma ;Westwood Computer Room;Teaching;35;21-40;no;no;no;yes;no;no;yes;no;no;no;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Westwood - Lifelong Learning;WCE0.09a;Tiered;47;41-60;yes;no;no;yes;no;yes;yes;yes;yes;no;no;2021-01-04 16:00;2021-01-04 18:00;0
+Westwood - Lifelong Learning;WCE0.09b;Flat;75;61-80;no;no;yes;no;no;no;yes;no;no;no;yes;2021-01-04 11:00;2021-01-04 12:00;0
+Westwood - Lifelong Learning;WCE0.10;Boardroom;95;81-100;yes;no;yes;no;no;yes;yes;yes;yes;yes;no;2021-01-04 14:00;2021-01-04 15:00;0
+Westwood - Lifelong Learning;WCE0.12;Flexible;146;101-150;yes;no;no;no;yes;no;no;yes;yes;yes;yes;2021-01-04 12:00;2021-01-04 14:00;0
+Westwood - Music Centre;W.MUSIC 1;Teaching;187;>150;no;yes;yes;no;yes;yes;no;yes;no;no;no;2021-01-04 13:00;2021-01-04 15:00;0
+Westwood - Music Centre;W.MUSIC 2;Tiered;8;0-20;no;yes;no;no;yes;no;no;no;no;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Westwood - Music Centre;W.MUSIC 3;Flat;36;21-40;no;no;no;no;no;no;yes;yes;no;yes;no;2021-01-04 17:00;2021-01-04 18:00;0
+Westwood - Music Centre;Westwood Dance Studio;Boardroom;49;41-60;yes;no;yes;yes;yes;yes;no;no;yes;no;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Westwood - Westwood Teaching Centre;WT0.01;Flexible;77;61-80;yes;yes;no;no;no;no;no;yes;no;no;yes;2021-01-04 9:00;2021-01-04 11:00;0
+Westwood - Westwood Teaching Centre;WT0.02;Teaching;89;81-100;no;yes;no;no;yes;no;yes;yes;no;no;yes;2021-01-04 12:00;2021-01-04 13:00;0
+Westwood - Westwood Teaching Centre;WT0.03;Tiered;137;101-150;no;yes;yes;no;yes;no;yes;yes;no;yes;yes;2021-01-04 14:00;2021-01-04 17:00;0
+Westwood - Westwood Teaching Centre;WT0.04;Flat;190;>150;no;yes;yes;no;no;yes;yes;no;yes;yes;no;2021-01-04 10:00;2021-01-04 13:00;0
+Westwood - Westwood Teaching Centre;WT0.05;Boardroom;11;0-20;no;yes;yes;yes;no;yes;yes;no;yes;no;no;2021-01-04 9:00;2021-01-04 13:00;0
+Westwood - Westwood Teaching Centre;WT0.06;Flexible;28;21-40;no;yes;yes;yes;no;no;no;no;yes;yes;no;2021-01-04 16:00;2021-01-04 18:00;0
+Westwood - Westwood Teaching Centre;WT1.01;Teaching;43;41-60;yes;no;yes;no;yes;yes;yes;no;no;no;no;2021-01-04 11:00;2021-01-04 12:00;0
+Westwood - Westwood Teaching Centre;WT1.02;Tiered;78;61-80;yes;no;no;yes;yes;yes;yes;no;no;no;no;2021-01-04 14:00;2021-01-04 15:00;0
+Westwood - Westwood Teaching Centre;WT1.03;Flat;92;81-100;yes;no;no;no;yes;no;no;yes;yes;no;no;2021-01-04 12:00;2021-01-04 14:00;0
+Westwood - Westwood Teaching Centre;WT1.04;Boardroom;145;101-150;yes;no;no;yes;yes;no;yes;yes;no;yes;no;2021-01-04 13:00;2021-01-04 15:00;0
+Westwood - Westwood Teaching Centre;WT1.05;Flexible;250;>150;yes;no;no;yes;no;yes;no;no;yes;yes;yes;2021-01-04 14:00;2021-01-04 15:00;0
+Westwood - Westwood Teaching Centre;WT1.06;Teaching;4;0-20;no;no;yes;yes;yes;no;no;yes;yes;yes;no;2021-01-04 17:00;2021-01-04 18:00;0
+Westwood - Westwood Teaching Centre;WLT;Tiered;26;21-40;yes;yes;yes;no;yes;yes;yes;no;no;yes;yes;2021-01-04 9:00;2021-01-04 13:00;0
+Westwood -Westwood House;W0.01;Flat;53;41-60;no;yes;yes;no;yes;no;yes;yes;no;yes;no;2021-01-04 9:00;2021-01-04 11:00;0
+Westwood -Westwood House;W0.02;Boardroom;68;61-80;yes;no;no;yes;no;yes;yes;no;no;no;yes;2021-01-04 12:00;2021-01-04 13:00;0
+Westwood -Westwood House;W0.14b;Flexible;88;81-100;no;no;no;yes;no;yes;yes;yes;yes;yes;no;2021-01-04 14:00;2021-01-04 17:00;0
+Westwood -Westwood House;W0.14c;Teaching;134;101-150;no;no;no;yes;no;yes;no;no;yes;no;no;2021-01-04 10:00;2021-01-04 13:00;0
+Westwood -Westwood House;W0.15;Tiered;160;>150;no;yes;yes;no;no;no;yes;no;yes;yes;no;2021-01-04 9:00;2021-01-04 13:00;0
+Westwood -Westwood House;W0.16;Flat;8;0-20;no;no;yes;no;yes;no;yes;no;no;no;yes;2021-01-04 16:00;2021-01-04 18:00;0
+Westwood -Westwood House;W0.17;Boardroom;27;21-40;yes;yes;no;no;yes;no;no;no;no;no;yes;2021-01-04 11:00;2021-01-04 12:00;0

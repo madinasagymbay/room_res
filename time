@@ -1,0 +1,50 @@
+from datetime import datetime, timedelta
+import sqlite3, csv
+from tkinter import *
+from tkinter import ttk
+
+#Create a database
+conn = sqlite3.connect("room_reservation.db")
+cur = conn.cursor()
+
+#Query to get and create a list from db
+query_started_date = "SELECT book_started_date FROM BookingTable"
+set_started_date = conn.execute(query_started_date)
+list_started_date = [r for r, in set_started_date] 
+#print(list_started_date)
+
+#Query to get and create a list from db
+query_ended_date = "SELECT book_ended_date FROM BookingTable"
+set_ended_date = conn.execute(query_ended_date)
+list_ended_date = [r for r, in set_ended_date] 
+#print(list_ended_date)
+
+
+
+start_date_list = []
+for i in range(1, len(list_started_date)):
+    start_date_list.append(datetime.strptime(list_started_date[i], "%Y-%m-%d %H:%M:%S"))
+#print(start_date_list)
+
+end_date_list = []
+for i in range(1, len(list_ended_date)):
+    end_date_list.append(datetime.strptime(list_ended_date[i], "%Y-%m-%d %H:%M:%S"))
+#print(end_date_list)
+
+#combined_start = datetime.datetime.combine(started_date, started_time)
+#combined_end = datetime.datetime.combine(ended_date, ended_time)
+
+booked = [(start_date_list[0], end_date_list[0])]
+
+hours = (datetime(2021, 1, 4, 9, 0), datetime(2021, 1, 4, 18, 0))
+
+def get_slots(hours, booked, duration=timedelta(hours=1)):
+    slots = sorted([(hours[0], hours[0])] + booked + [(hours[1], hours[1])])
+    for start, end in ((slots[i][1], slots[i+1][0]) for i in range(len(slots)-1)):
+        assert start <= end, "Cannot attend all appointments"
+        while start + duration <= end:
+            print ("{:%H:%M} - {:%H:%M}".format(start, start + duration))
+            start += duration
+
+if __name__ == "__main__":
+    get_slots(hours, booked)
